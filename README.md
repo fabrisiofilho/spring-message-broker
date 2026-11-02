@@ -13,3 +13,20 @@
 ### As filas de cada serviço, e exchange.
 
 <img src="https://i.ibb.co/wQ9Cwpk/Structure-project.png"/>
+
+---
+
+<!-- github-standardizer:start -->
+## Overview
+
+Spring messaging example integrating RabbitMQ.
+
+## Technology indicators
+
+Not detected from root-level project files.
+
+## Getting started
+
+Check the project manifests and existing documentation for supported setup commands. No installation instructions were inferred.
+
+<!-- github-standardizer:end -->
